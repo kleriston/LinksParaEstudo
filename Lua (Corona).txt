@@ -12,3 +12,13 @@ http://encycolorpedia.pt/dddddf (Corres corona)
 https://portal.coronalabs.com/bakery/login (corona)
 
 https://coronalabs.com/blog/2012/04/03/tutorial-database-access-in-corona/ (acesso banco de dados)
+
+https://docs.coronalabs.com/api/library/display/newCircle.html (Circulos)
+
+https://docs.coronalabs.com/api/library/display/newRect.html (Retangulo)
+
+https://docs.coronalabs.com/api/library/display/newImage.html (Imagem)
+
+https://www.freesound.org/search/?q=supe+mario (Baixar Audios)
+
+https://docs.coronalabs.com/api/library/widget/newButton.html#widget.newbutton (Botão)
