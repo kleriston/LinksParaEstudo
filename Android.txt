@@ -1,0 +1,28 @@
+https://www.google.com.br/#q=desenvolvimento+android&tbm=vid (desenvolvimento android)
+
+https://www.youtube.com/watch?v=mPvwOnujUtw (config genymotion)
+
+https://www.youtube.com/watch?v=obD7m0R6TvM (Curso de Android - Jogo da Velha - Aula 3 - Recuperando a instância com a função findViewWithTag())
+
+https://www.youtube.com/watch?v=IZM7rYFMjiA (jogo da velha)
+
+http://www.flextool.com.br/tabela_cores.html (tabela de cores)
+
+https://www.youtube.com/watch?v=BOXUJqYS7_I (listView)
+
+http://www.devmedia.com.br/exibindo-caixas-de-dialogos-no-android-com-alertdialog/26749 (Dialodos)
+
+http://androiano.blogspot.com.br/2011/10/utilizando-duas-listviews-em-uma-mesma.html (Duas lista em uma mesma View)
+
+http://pt.stackoverflow.com/questions/98314/formatar-data-no-android-e-sqlite (formatar data)
+
+https://www.youtube.com/watch?v=ZP_MEDLFbAg (Notificação)
+
+https://www.youtube.com/watch?v=uG_VwHFdDkw (picker dialog)
+
+https://www.youtube.com/watch?v=czKLAx750N0 (Date picker)
+
+http://satyan.github.io/sugar/creation.html#why (sugar orm)
+
+
+

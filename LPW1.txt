@@ -1,0 +1,17 @@
+http://codigofonte.uol.com.br/artigos/principais-tags-de-html (Principais Tags HTML)
+
+http://www.primefaces.org/showcase/ui/input/manyButton.xhtml (Primefaces) 
+
+http://www.guj.com.br/t/como-hospedar-um-site-aplicacao-web-feito-no-netbeans/132859/2 (Como hospedar aplicação Web)
+
+http://www.guj.com.br/t/rodar-aplicativo-web-no-servidor-tomcat-sem-o-netbeans/190260 (Rodar aplicação no servidor tomcat)
+
+https://www.youtube.com/channel/UCi2BOYiY0xP-Eu5dflGI2Gw/videos?view=0&flow=grid&sort=da (Henrietta Hopkins Desenvolvendo pdv)
+
+https://www.youtube.com/watch?v=_xKX8MdtZKA (criptografia de senhas md5)
+
+https://www.youtube.com/watch?v=zD3j78yIyds (criação da entidade Venda)
+
+https://www.youtube.com/watch?v=iwJZj4mGaAs (busca por intervalo de datas)
+
+https://commons.apache.org/proper/commons-email/ (biblioteca de email)

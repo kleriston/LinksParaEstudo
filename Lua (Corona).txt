@@ -1,0 +1,14 @@
+https://www.google.com.br/#q=programar+em+lua
+
+https://www.lua.org/manual/5.1/pt/manual.html (manual de referencia)
+
+https://www.youtube.com/watch?v=s2_bIg0YT6g (introdução a programação lua)
+
+
+https://www.youtube.com/watch?v=vXK5NZ_Jnpo (introdução Corona)
+
+http://encycolorpedia.pt/dddddf (Corres corona)
+
+https://portal.coronalabs.com/bakery/login (corona)
+
+https://coronalabs.com/blog/2012/04/03/tutorial-database-access-in-corona/ (acesso banco de dados)

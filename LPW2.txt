@@ -1,0 +1,42 @@
+http://php.net/manual/pt_BR/function.strcmp.php (php manual)
+
+http://phptester.net/ (testar php)
+
+https://www.youtube.com/watch?v=HVdWpWcneDo (php iniciante)
+
+https://www.youtube.com/watch?v=QtP3y8dvKQQ (Cake bake)
+
+https://www.youtube.com/watch?v=DJh5eHD1dJM (Instalando CakePHP 3, utilizando Cake Bake e configurando a base de dados)
+
+https://www.youtube.com/watch?v=HqSYuQDHRWc (instalando cake php em servidor local)
+
+https://www.youtube.com/watch?v=wcCwvhTsQP4 (curso php)
+
+https://www.youtube.com/channel/UCR26qtZ2AUqh2Tdx0ep6lQg (Canal)
+
+http://www.devmedia.com.br/criando-um-crud-completo-com-cakephp/28659 (crud completo)
+
+https://www.youtube.com/watch?v=wRuAdgeGsTA (Bootstrap)
+
+https://www.google.com.br/search?q=criar+json+com+php&oq=criar+json+com+php&aqs=chrome..69i57.5255j0j7&sourceid=chrome&ie=UTF-8#q=criar+json+com+php&tbm=vid (json php)
+
+http://www.devmedia.com.br/trabalhando-com-json-em-php/26716 (json php)
+
+
+https://www.youtube.com/watch?v=Y4-5fxttwPw (WebService)
+
+https://github.com/cakephp/app (Composer)
+
+https://www.youtube.com/watch?v=_ZyGS0K_qV4 (configurando ambiente php)
+
+https://www.youtube.com/watch?v=Gh6b6jLKNUQ (video-aula Cakephp 01)
+
+
+
+
+
+
+
+
+
+
